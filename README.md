@@ -16,7 +16,7 @@
 - [로그인 페이지](https://github.com/ssafy-mate/ssafy-mate_documents/blob/main/api/%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%ED%8E%98%EC%9D%B4%EC%A7%80.md)
 - [팀 관련](https://github.com/ssafy-mate/ssafy-mate_documents/blob/main/api/%ED%8C%80%20%EA%B4%80%EB%A0%A8.md)
 - [채팅](https://github.com/ssafy-mate/ssafy-mate_documents/blob/main/api/채팅.md)
-- 
+
 <br />
 
 <div id="2"></div>
