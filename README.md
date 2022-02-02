@@ -18,6 +18,7 @@
 - [교육생 관련](https://github.com/ssafy-mate/ssafy-mate_documents/blob/main/api/%EA%B5%90%EC%9C%A1%EC%83%9D%20%EA%B4%80%EB%A0%A8.md)
 - [채팅](https://github.com/ssafy-mate/ssafy-mate_documents/blob/main/api/채팅.md)
 - [기술 스택 조회](https://github.com/ssafy-mate/ssafy-mate_documents/blob/main/api/%EA%B8%B0%EC%88%A0%20%EC%8A%A4%ED%83%9D.md)
+- [프로젝트 관련](https://github.com/ssafy-mate/ssafy-mate_documents/blob/main/api/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B4%80%EB%A0%A8.md)
 
 <br />
 
